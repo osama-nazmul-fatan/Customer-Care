@@ -1,0 +1,12 @@
+# NetBeans / Ant build output
+build/
+dist/
+*.class
+
+# NetBeans local/user-specific state (machine paths, open files, etc.)
+nbproject/private/
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+*.swp
