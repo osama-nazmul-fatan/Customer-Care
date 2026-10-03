@@ -1,0 +1,6 @@
+Initial commit: CustomerCare BSc project (JSP/Java/MySQL)
+
+Legacy academic project archived for portfolio purposes. Removed compiled
+build/ output and NetBeans-local nbproject/private/ state, and replaced
+the hardcoded MySQL root password with a placeholder in CutomerBackend.java,
+PendingComplaints.jsp, and RectifiedComplaints.jsp.
